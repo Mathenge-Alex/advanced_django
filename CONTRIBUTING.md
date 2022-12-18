@@ -1,3 +1,3 @@
 # Advanced Django Learning
 
-Progressive learning.
+This is a Progressive learning tutorial
